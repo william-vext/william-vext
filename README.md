@@ -42,3 +42,6 @@ The class Ruszit is a union of Rust and Zig, The name Ruszit is a combination of
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img
 
+the class Crust is a union of C and Rust, The name Crust is a combination of the names C and Rust, Currently, no projects have been created that combine Rust and C, but if it is created will be 0001.
+
+
