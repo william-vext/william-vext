@@ -52,3 +52,5 @@ the class Crust is a union of C and Rust, The name Crust is a combination of the
   <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="45"/>
   <img
+
+the class Cruszit is a union of Rust,Zig and C, the name Cruszit is a combination of Rust, Zig and C,
