@@ -57,6 +57,6 @@ the class Cruszit is a union of Rust,Zig and C, the name Cruszit is a combinatio
 
 ## class Cig
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img
