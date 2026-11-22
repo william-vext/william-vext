@@ -32,5 +32,6 @@ Every project that combines languages belongs to a class
   <img
 
 
+
 The class Ruszit is a union of Rust and Zig, The name Ruszit is a combination of the names Rust and Zig.
 
