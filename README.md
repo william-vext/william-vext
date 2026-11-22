@@ -20,8 +20,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" wi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
   <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arch-linuxalpine/arch-linuxalpine-original.svg" width="45"/>
-  <img
-
 
