@@ -17,3 +17,5 @@ low-level programming, and understanding how operating systems work.
   <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="45"/>
   <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
+  <img
