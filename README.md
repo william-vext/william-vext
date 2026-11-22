@@ -1,5 +1,9 @@
 # Hi! I'm William Michael Vex
 
-I'm a system dev focus to performance and learn how operating systems works
+I'm an aspiring systems developer interested in performance,
+low-level programming, and understanding how operating systems work.
 
-
+### Currently learning 📚
+- Systems programming
+- Memory management 
+- Operating system fundamentals
