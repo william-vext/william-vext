@@ -1,1 +1,2 @@
-# Hi everyone! my nickname is William Michael Vex!
+# Hi! I'm William Michael Vex
+
