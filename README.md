@@ -21,4 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.s
   <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/termux/termux-original.svg" width="45"/>
+  <img
+
 
