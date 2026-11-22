@@ -15,6 +15,6 @@ low-level programming, and understanding how operating systems work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img
-src="https://cdn.jsdelivr.net/gh/devico na/devicon/icons/neovim/neovim-original.svg"
+src="https://cdn.jsdelivr.net/gh/devico na/devicon/icons/nvim/nvim-original.svg"
 width="45"/>
   <img
