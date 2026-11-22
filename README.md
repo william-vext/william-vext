@@ -8,9 +8,13 @@ low-level programming, and understanding how operating systems work.
 - Memory management 
 - Operating system fundamentals
 
-<h2>languages && toals</h2>
+<h2>languages && tools</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img
+src="https://cdn.jsdelivr.net/gh/devico na/devicon/icons/neovim/neovim-original.svg"
+width="45"/>
+  <img
