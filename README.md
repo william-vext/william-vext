@@ -8,7 +8,7 @@ low-level programming, and understanding how operating systems work.
 - Memory management 
 - Operating system fundamentals
 
-<h2>Languages</h2>
+<h2>languages</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45"/>
